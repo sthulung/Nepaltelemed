@@ -89,6 +89,7 @@
 }
 span.gall {
   font-size: 0.9em;
+  background-color: #e6e6e6;
 }
 }
 @media(max-width:640px){

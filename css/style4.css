@@ -9,7 +9,7 @@
    opacity: 1;
 }
 .view-fourth .mask {
-   background-color: rgba(0,0,0,0.8);
+   background-color: #7dabcf;
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
    filter: alpha(opacity=0);
    opacity: 0;
