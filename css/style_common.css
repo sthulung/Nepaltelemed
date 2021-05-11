@@ -95,7 +95,7 @@ span.gall {
 @media(max-width:640px){
 .view {
   width: 177px;
-  height: 127px;
+  height: 280px;
 }
 .view .mask, .view .content {
   width: 178px;
@@ -117,7 +117,7 @@ span.gall {
 }
 @media(max-width:480px){
 .view {
-  width: 196px;
+  width: 350px;
 }	
 .view .mask, .view .content {
   width: 196px;
