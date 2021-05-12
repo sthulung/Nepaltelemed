@@ -1018,8 +1018,8 @@ span.menu{
 		color: #A73C46;
 		display: block;
 		border: none;
-        text-align: center;
-        margin: 0em;
+        text-align: left;
+        margin-left: 45px;
 }
 ul.res li a:hover,ul.res li a.active{
 	color:#000;
